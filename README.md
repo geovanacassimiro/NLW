@@ -2,9 +2,9 @@
 
 ![preview](./.github/preview.png.png)
 
-> [Clique aqui para acessar] (https://geovanacassimiro.github.io/NLW/)
+> [Clique aqui para acessar](https://geovanacassimiro.github.io/NLW/)
 
-## tecnologias usadas:
+## Tecnologias usadas:
 - HTML
 - CSS
 - Git e Github
